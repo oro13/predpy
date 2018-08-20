@@ -67,4 +67,6 @@ distinguishing feature.
 0.0.1 - Working graphs.
 0.0.2 - Documentation.
 0.0.3 - More graphs.
-0.0.4 - Cleaning. predpy.
+0.0.4 - Cleaning. Autoregression.
+0.0.5 - Renaming. Predpy
+0.0.6 - Changing 'autoregression's to 'predpy's

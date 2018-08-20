@@ -3,9 +3,9 @@ README.md
 long_description.txt
 setup.py
 predpy/__init__.py
-predpy/predpy.py
 predpy/cleandata.py
 predpy/galgraphs.py
+predpy/predpy.py
 predpy/ridge_regression.py
 predpy/timeseries.py
 predpy.egg-info/PKG-INFO
