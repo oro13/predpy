@@ -1,5 +1,5 @@
 # from pandas.tools.plotting import scatter_matrix
-from autoregression.galgraphs import plot_scatter_matrix
+from predpy.galgraphs import plot_scatter_matrix
 import pandas as pd
 from sklearn import datasets
 # import seaborn as sns

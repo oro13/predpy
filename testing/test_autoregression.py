@@ -18,7 +18,7 @@ from regression_tools.dftransformers import (
 from basis_expansions.basis_expansions import (
     Polynomial, LinearSpline, NaturalCubicSpline)
 
-from autoregression import (simple_spline_specification,
+from predpy import (simple_spline_specification,
                             simple_category_specification,
                             make_cont_models,
                             plot_choose_alpha,

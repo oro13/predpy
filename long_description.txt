@@ -9,7 +9,7 @@ machine learning techniques.
 A `setup.py` file is included. To install into a python environment run
 
 ```bash
-pip install git+https://github.com/pgeurin/autoregression.git
+pip install git+https://github.com/pgeurin/predpy.git
 ```
 
 Included are two extra modules:

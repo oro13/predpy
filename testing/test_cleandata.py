@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from autoregression.cleandata import rename_columns, add_feature_continuous_condition, clean_df_X, clean_df, ints_to_floats
+from predpy.cleandata import rename_columns, add_feature_continuous_condition, clean_df_X, clean_df, ints_to_floats
 from nose.tools import assert_dict_equal
 
 class TestClean(unittest.TestCase):

@@ -7,11 +7,11 @@ with open(path.join(here, 'long_description.txt'), encoding='utf-8') as f:
     long_description = '\n' + f.read()
 
 setup(
-    name='autoregression',
-    version='0.0.4',
+    name='predpy',
+    version='0.0.5',
     description='Series of Data Science Graphs written by Philip Geurin and Matt Drury',
     long_description=long_description,
-    url='https://github.com/pgeurin/autoregression',
+    url='https://github.com/pgeurin/predpy',
     author='Philip Geurin and Matt Drury',
     author_email='philip.geurin@gmail.com',
     license='BSD',

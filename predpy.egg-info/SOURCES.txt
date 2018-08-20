@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+long_description.txt
+setup.py
+predpy/__init__.py
+predpy/autoregression.py
+predpy/cleandata.py
+predpy/galgraphs.py
+predpy/ridge_regression.py
+predpy/timeseries.py
+predpy.egg-info/PKG-INFO
+predpy.egg-info/SOURCES.txt
+predpy.egg-info/dependency_links.txt
+predpy.egg-info/requires.txt
+predpy.egg-info/top_level.txt

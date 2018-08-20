@@ -1,7 +1,7 @@
 import sys
 import os
-import autoregression
-from autoregression import cleandata, galgraphs
+import predpy
+from predpy import cleandata, galgraphs
 import importlib
 import warnings
 import pandas

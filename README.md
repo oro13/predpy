@@ -6,16 +6,16 @@ Automatically assess and test multiple working
 machine learning techniques:
 
 
-    import autoregression
-    autoregression.compare_predictions(df, 'y_var')
+    import predpy
+    predpy.compare_predictions(df, 'y_var')
 
 
-<!-- ![iris_autoregression](example_plots/iris_autoregression_02_fast.gif) -->
-<img src="example_plots/iris_autoregression_02_fast.gif" width="600"/>
+<!-- ![iris_predpy](example_plots/iris_predpy_02_fast.gif) -->
+<img src="example_plots/iris_predpy_02_fast.gif" width="600"/>
 
-    import autoregression
+    import predpy
     iris_df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv')
-    autoregression.compare_predictions(iris_df,'sepal length')
+    predpy.compare_predictions(iris_df,'sepal length')
 
 
 ## Installation
@@ -30,14 +30,14 @@ machine learning techniques:
 A `setup.py` file is included. To install run:
 
 ```bash
-pip install autoregression
+pip install predpy
 ```
 
 or
 
 ```bash
-git clone https://github.com/pgeurin/autoregression
-pip install -e autoregression/
+git clone https://github.com/pgeurin/predpy
+pip install -e predpy/
 ```
 
 for an editable, most current version.
