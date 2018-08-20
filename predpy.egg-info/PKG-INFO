@@ -7,7 +7,7 @@ Author: Philip Geurin and Matt Drury
 Author-email: philip.geurin@gmail.com
 License: BSD
 Description: 
-        # Autoregression
+        # predpy
         
         Here are the tools to automatically assess and test multiple working
         machine learning techniques.
@@ -76,7 +76,7 @@ Description:
         0.0.1 - Working graphs.
         0.0.2 - Documentation.
         0.0.3 - More graphs.
-        0.0.4 - Cleaning. AutoRegression.
+        0.0.4 - Cleaning. predpy.
         
 Keywords: statistics,data,science,datascience
 Platform: UNKNOWN

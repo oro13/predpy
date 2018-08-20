@@ -1,4 +1,4 @@
-# Autoregression
+# predpy
 
 Here are the tools to automatically assess and test multiple working
 machine learning techniques.
@@ -67,4 +67,4 @@ distinguishing feature.
 0.0.1 - Working graphs.
 0.0.2 - Documentation.
 0.0.3 - More graphs.
-0.0.4 - Cleaning. AutoRegression.
+0.0.4 - Cleaning. predpy.

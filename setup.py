@@ -8,7 +8,7 @@ with open(path.join(here, 'long_description.txt'), encoding='utf-8') as f:
 
 setup(
     name='predpy',
-    version='0.0.5',
+    version='0.0.6',
     description='Series of Data Science Graphs written by Philip Geurin and Matt Drury',
     long_description=long_description,
     url='https://github.com/pgeurin/predpy',

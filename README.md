@@ -1,4 +1,4 @@
-# Autoregression
+# predpy
 
 Clean, graph, and model your data in one command.
 
@@ -82,7 +82,7 @@ If your data is a event-timestamp, rather than an event series, convert your dat
 0.0.1 - Working graphs.
 0.0.2 - Documentation.
 0.0.3 - More graphs.
-0.0.4 - Cleaning. AutoRegression.
+0.0.4 - Cleaning. predpy.
 
 ## More Graphs:
 <!-- ![univariate](example_plots/univariate.png) -->
