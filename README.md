@@ -11,7 +11,7 @@ machine learning techniques:
 
 
 <!-- ![iris_predpy](example_plots/iris_predpy_02_fast.gif) -->
-<img src="example_plots/iris_predpy_02_fast.gif" width="600"/>
+<img src="example_plots/iris_autoregression_02_fast.gif" width="600"/>
 
     import predpy
     iris_df = pd.read_csv('https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv')
